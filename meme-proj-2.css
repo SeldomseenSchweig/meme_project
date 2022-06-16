@@ -1,0 +1,72 @@
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0 0 25px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    justify-content: right;
+  }
+  .form-div{
+    align-content: center;
+  
+  }
+
+
+
+
+  .meme-container{  
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+    overflow: hidden;
+    text-align: center;
+  }
+
+   img {
+     width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 8px;
+    display: block;
+    align-self: center;
+  
+  }
+
+.container{
+  text-align: center;
+
+}
+/* .row{ }*/
+
+
+.bottom-class{
+  top: 75%;
+
+}
+
+   p {
+  text-transform: uppercase;
+   left: 50%;
+  position: absolute;
+  z-index: 1;
+  font-family: Impact;
+  color: white;
+  font-size: 5vw;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+
+}
+
+ .img:hover {
+  opacity: 5;
+  cursor: pointer;
+
+}
+
+
+   
+ 
+
